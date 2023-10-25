@@ -26,7 +26,7 @@ To use SR-MCL, follow these steps:
 2. **Installation**
    - Clone the repository to your local machine:
      ```
-     git clone <repository_url>
+     git clone <[repository_url](https://github.com/Hossein-Nzari/SR-MCL.git)>
      ```
    
 3. **Data Preparation**
