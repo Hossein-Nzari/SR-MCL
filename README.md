@@ -1,5 +1,15 @@
 # SR-MCL
-Implementation of SR-MCL, a bioinformatics algorithm
+[MCL(Markov clustering algorithm) and R-MCL](https://sci-hub.se/https:/doi.org/10.1145/1854776.1854812) are two of the most famous graph clustering algorithms. 
+However, they have their downsides. For instance, MCL does not scale well, even to moderate-sized graphs. 
+And R-MCL cannot identify hierarchical modules,  despite being effective and efficient in hard clustering. 
+Hence [SR-MCL](https://academic.oup.com/bioinformatics/article/28/18/i473/243788?login=true) was developed to improve the R-MCL performance in recognizing overlapping clusters in 
+large graphs, like protein protein interaction networks. In this project, the implementation and performance of 
+SR-MCL will be explored. 
+ 
+1. Implementation of SR-MCL algorithm 
+2. Deployment of the algorithm on [WI-PHI](https://www.yeastgenome.org/reference/S000120766) 
+3. Defininf an evaluation metric for graph clustering and study and explain the effects of SR-MCL’s 
+parameters on the algorithm performance based on the evaluation metric.
 
 # SR-MCL (Self-Regulative Markov Cluster Algorithm) for Network Clustering
 
