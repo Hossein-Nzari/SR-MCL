@@ -8,7 +8,7 @@ SR-MCL will be explored.
  
 1. Implementation of SR-MCL algorithm 
 2. Deployment of the algorithm on [WI-PHI](https://www.yeastgenome.org/reference/S000120766) 
-3. Defining an evaluation metric for graph clustering and study and explain the effects of SR-MCL’s 
+3. Defining an evaluation metric for graph clustering and studying and explaining the effects of SR-MCL’s 
 parameters on the algorithm performance based on the evaluation metric.
 
 # SR-MCL (Self-Regulative Markov Cluster Algorithm) for Network Clustering
